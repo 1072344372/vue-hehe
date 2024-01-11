@@ -1,0 +1,1 @@
+<view><mors wx:if="{{a}}" u-i="60f8db28-0" bind:__l="__l" u-p="{{b}}"></mors><uni-fab wx:if="{{d}}" bindfabClick="{{c}}" u-i="60f8db28-1" bind:__l="__l" u-p="{{d}}"/></view>
